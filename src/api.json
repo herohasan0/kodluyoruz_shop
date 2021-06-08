@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "createdAt": "2021-06-06T03:54:53.771Z",
+    "title": "Erkek Beyaz Polo Yaka Düz T-shirt ",
+    "avatar": "https://cdn.dsmcdn.com//ty77/product/media/images/20210316/12/72026477/153003525/0/0_org.jpg",
+    "price": "49.99"
+  },
+  {
+    "id": "2",
+    "createdAt": "2021-06-06T03:54:53.771Z",
+    "title": "Erkek Koyu Mavi Polo Yaka Düz T-shirt",
+    "avatar": "https://cdn.dsmcdn.com//ty69/product/media/images/20210401/15/77019818/159650746/0/0_org.jpg",
+    "price": "79.99"
+  },
+  {
+    "id": "3",
+    "createdAt": "2021-06-06T03:54:53.771Z",
+    "title": "Erkek Bordo Polo Yaka Düz T-shirt",
+    "avatar": "https://cdn.dsmcdn.com//ty68/product/media/images/20210401/17/77045016/159678699/0/0_org.jpg",
+    "price": "79.99"
+  },
+  {
+    "id": "4",
+    "createdAt": "2021-06-06T03:54:53.771Z",
+    "title": "Erkek Bordo Polo Yaka Düz T-shirt",
+    "avatar": "https://cdn.dsmcdn.com//ty47/product/media/images/20210401/17/77045285/159679388/0/0_org.jpg",
+    "price": "29.99"
+  }
+]

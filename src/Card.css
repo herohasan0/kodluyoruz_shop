@@ -1,0 +1,18 @@
+.Card {
+  margin-top: 40px;
+  background-color: rgb(228, 226, 219);
+  padding-bottom: 15px;
+  border-radius: 12px;
+  color: #000;
+  font-size: 15px;
+}
+
+.bottom {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.price {
+  margin-top: 5px;
+  font-weight: bold;
+}
